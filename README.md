@@ -1,0 +1,2 @@
+i am  building a random password generator that generates a password using different characters. The final project will consist of a container titled "Random Password Generator" with an input field containing an icon for copying the password and a button to generate it. 
+When you click the button, a password is generated randomly. We can copy it by clicking the icon. A notification will appear confirming that the password has been copied, and you can paste it anywhere we want. 
